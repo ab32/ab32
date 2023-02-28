@@ -22,7 +22,9 @@ Here are some ideas to get you started:
   <a href="https://www.linkedin.com/in/kevin-abdul-a6a7a886/">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
-</div><img src="https://komarev.com/ghpvc/?username=ab32&style=flat-square&color=blue" alt="" align="center"/>
+</div>
+<img src="https://komarev.com/ghpvc/?username=ab32&style=flat-square&color=blue" alt="" align="center"/>
+
 <h1>
   hey there
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
