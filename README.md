@@ -26,7 +26,7 @@ Here are some ideas to get you started:
   <img src="https://komarev.com/ghpvc/?username=ab32&style=flat-square&color=blue" alt="" class="center"/>
   
 <h1>
-  hey there
+  hey there and welcome to my Github
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
 </h1>
 </div>
