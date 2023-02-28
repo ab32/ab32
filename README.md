@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 <div id="header" align="center">
-  <img src="[https://giphy.com/stickers/phil-prince-michael-aarons-animals-ZEUODEtQiUZWGg6IHR](https://media.giphy.com/media/ZEUODEtQiUZWGg6IHR/giphy.gif)" width="100"/>
+  <img src="https://media.giphy.com/media/ZEUODEtQiUZWGg6IHR/giphy.gif" width="100"/>
 </div>
 
 <div id="badges" align="center">
