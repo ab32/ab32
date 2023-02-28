@@ -14,6 +14,15 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+<div id="header" align="center">
+  <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
+</div>
+<div id="badges">
+  <a href="https://www.linkedin.com/in/kevin-abdul-a6a7a886/">
+    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
+  </a>
+</div>
+
 ![Kevin's GitHub stats](https://github-readme-stats.vercel.app/api?username=ab32&show_icons=true&theme=transparent)[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ab32&exclude_repo=github-readme-stats,ab32.github.io)](https://github.com/anuraghazra/github-readme-stats)
 
 <h2> 🚀 &nbsp;Some Tools I Have Used and Learned</h2>
