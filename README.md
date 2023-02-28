@@ -38,7 +38,7 @@ Here are some ideas to get you started:
 
 ![Kevin's GitHub stats](https://github-readme-stats.vercel.app/api?username=ab32&show_icons=true&theme=transparent)[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ab32&exclude_repo=github-readme-stats,ab32.github.io)](https://github.com/anuraghazra/github-readme-stats)
 
-<h2> 🚀 &nbsp;Some Tools I Have Used and Learned</h2>
+<h2> 🚀 &nbsp;Some Tools I Have Used</h2>
 <p align="left">
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" alt="vscode" width="45" height="45"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original-wordmark.svg" alt="HTML5" width="45" height="45"/>
