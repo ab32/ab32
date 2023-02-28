@@ -24,13 +24,14 @@ Here are some ideas to get you started:
   </a>
   <br/>
   <img src="https://komarev.com/ghpvc/?username=ab32&style=flat-square&color=blue" alt="" class="center"/>
-</div>
-
-
+  
 <h1>
   hey there
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
 </h1>
+</div>
+
+
 <br/>
 
 <br/>
