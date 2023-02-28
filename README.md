@@ -30,12 +30,7 @@ Here are some ideas to get you started:
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
 </h1>
 </div>
- 
-
 <br/>
-
-<br/>
-
 ![Kevin's GitHub stats](https://github-readme-stats.vercel.app/api?username=ab32&show_icons=true&theme=transparent)[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ab32&exclude_repo=github-readme-stats,ab32.github.io)](https://github.com/anuraghazra/github-readme-stats)
 
 <h2> 🚀 &nbsp;Some Tools I Have Used</h2>
